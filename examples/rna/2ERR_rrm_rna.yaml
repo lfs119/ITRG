@@ -1,0 +1,15 @@
+version: 1
+sequences:
+  - protein:
+      id: A  # Fox-1 RRM Domain
+      sequence: MGSSHHHHHHSSGLVPRGSHMNTENKSQPKRLHVSNIPFRFRDPDLRQMFGQFGKILDVEIIFNERGSKGFGFVTFENSADADRAREKLHGTVVEGRKIEVNNATARVM
+    #   msa: empty
+  - rna:
+      id: B
+      sequence: UGCAUGU  # 目标单链序列
+# properties:
+#   - affinity:
+#       binder: B
+# properties:
+#   - interface:
+#       binder: B

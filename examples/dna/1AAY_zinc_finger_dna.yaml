@@ -1,0 +1,13 @@
+version: 1
+# Representative PDB: 1AAY (Zif268 zinc finger bound to DNA)
+sequences:
+  - protein:
+      id: A
+      sequence: MERPYACPVESCDRRFSRSDELTRHIRIHTGQKPFQCRICMRNFSRSDHLTTHIRTHTGEKPFACDICGRKFARSDERKRHTKIHLRQKD
+  - dna:
+      id: B
+      sequence: AGCGTGGGCGT
+  - dna:
+      id: C
+      sequence: TACGCCCACGC
+

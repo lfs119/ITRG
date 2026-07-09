@@ -1,0 +1,13 @@
+version: 1
+# Representative PDB: 1BBZ (ABL SH3 domain bound to p41 peptide)
+# NOTE: The deposited peptide has an N-terminal cap; this minimal template omits the cap.
+sequences:
+  - protein:
+      id: A
+      sequence: NLFVALYDFVASGDNTLSITKGEKLRVLGYNHNGEWCEAQTKNGQGWVPSNYITPVNS
+  - protein:
+      id: B
+      sequence: APSYSPPPPP
+# properties:
+#   - affinity:
+#       binder: B

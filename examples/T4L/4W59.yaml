@@ -1,0 +1,14 @@
+version: 1
+
+sequences:
+  - protein:
+      id: A
+      sequence: "MNIFEMLRIDERLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAAAINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSIWYNQTPNRAKRVITTFRTGTWDAYKNL"
+
+  - ligand:
+      id: B
+      ccd: "3GZ"
+      
+properties:
+  - affinity:
+      binder: B

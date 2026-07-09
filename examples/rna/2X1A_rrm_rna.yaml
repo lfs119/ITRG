@@ -1,0 +1,12 @@
+version: 1
+# Representative PDB: 2X1A (Rna15 RRM bound to RNA)
+sequences:
+  - protein:
+      id: A
+      sequence: GPSRVVYLGSIPYDQTEEQILDLCSNVGPVINLKMMFDPQTGRSKGYAFIEFRDLESSASAVRNLNGYQLGSRFLKCGYSSNSDISGVSQQQQQQYN
+  - rna:
+      id: B
+      sequence: GUUGU
+# properties:
+#   - affinity:
+#       binder: B
